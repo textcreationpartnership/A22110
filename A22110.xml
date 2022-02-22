@@ -1,0 +1,376 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My the King. Letters patents, commanding that no greater or other customes, imposts, fees, entrie-siluer, or other dueties whatsoeuer, shalbe hereafter taken, extracted or receiued, by any officers or subiects of England and Ireland, from Scottish-men, or Scottish ships or any goods or merchandizes imported or exported by them or their ships, then is vsually receiued from English and Irish men, English and Irish ships, or any goods imported or exported by them or their ships, to or from England and Ireland, in all respects: and that Scottish ships bee no more reputed or accompted strangers bottomes, but free bottomes, paying no more customes, impositions or other dueties for goods imported, or exported by them, then if they were imported or exported in English or Irish bottomes, to or from England or Ireland.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1615</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22110</idno>
+            <idno type="STC">STC 8515</idno>
+            <idno type="STC">ESTC S100812</idno>
+            <idno type="EEBO-CITATION">99836639</idno>
+            <idno type="PROQUEST">99836639</idno>
+            <idno type="VID">923</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 923)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 1572:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>My the King. Letters patents, commanding that no greater or other customes, imposts, fees, entrie-siluer, or other dueties whatsoeuer, shalbe hereafter taken, extracted or receiued, by any officers or subiects of England and Ireland, from Scottish-men, or Scottish ships or any goods or merchandizes imported or exported by them or their ships, then is vsually receiued from English and Irish men, English and Irish ships, or any goods imported or exported by them or their ships, to or from England and Ireland, in all respects: and that Scottish ships bee no more reputed or accompted strangers bottomes, but free bottomes, paying no more customes, impositions or other dueties for goods imported, or exported by them, then if they were imported or exported in English or Irish bottomes, to or from England or Ireland.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+                  <author>Suffolk, Thomas Howard, Earl of, 1561-1626. aut</author>
+               </titleStmt>
+               <extent>[3] sheets   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno 1615]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Addressed to Thomas Howard, Earl of Suffolk and others.</note>
+                  <note>Dated at end: Westminster the twelfth day of April, in the thirteenth yeere of our reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Customs administration --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:923:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal English blazon or coat of arms</figDesc>
+               </figure>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">¶ Letters Patents, commanding that no greater or other Cu<g ref="char:EOLunhyphen"/>ſtomes, Impoſts, Fees, Entrie-Siluer, or other dueties whatſoeuer, ſhalbe hereafte<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> taken, exacted or receiued, by any Officers or Subiects of England and Ireland, from Scottiſh-men, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Scottiſh Ships, or any Goods or Merchandizes Imported or Exported by them or their Ships, then is v<g ref="char:EOLunhyphen"/>ſually receiued from Engliſh and Iriſh men, Engliſh and Iriſh Ships, or any Goods Imported or exporte<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by them or their Ships, to or from England and Ireland, in all reſpects: And that Scottiſh Ships bee no more reputed or accompted Strangers Bottomes, but free Bottomes, paying no more Cuſtomes, Imp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſitions or other dueties for Goods Imported, or Exported by them, then if they were Imported or expo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ted in Engliſh or Iriſh Bottomes, to or from England or Ireland.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>Ames by the Grace of GOD King of England, Scotland, France and Ireland, Defender of the Faith, &amp;c.</hi> To Our right truſtie and righ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> welbeloued couſen and Counſellour <hi>Thomas</hi> Earle of Suffolke, Lor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> high Treaſurer of England, And to the Treaſurer, Chancellour, vn<g ref="char:EOLunhyphen"/>der Treaſurer, Chamberlaines and Barons of Our Exchequer <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> England for the time being, And to Our Attourney Generall for t<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> time being, And to all and ſinguler Our Cuſtomers, Collectours<g ref="char:punc">▪</g> Fermours, Comptrollers, and other Officers of all and euery Our Cuſtomes, Subſidies<g ref="char:punc">▪</g> Impoſts, Butlarage, Priſage, and other dueties within all and euery Our Ports, Hauen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Creekes, Members and places whatſoeuer, within Our Realme of England for the time <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing, and which hereafter ſhall be; And to Our right truſtie, and right welbeloued, Sir <hi>A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>thour Chicheſter</hi> Knight, Baron of Belfaſt, Lord Deputie of Our Realme of Ireland, A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Lord Deputie, Lord Lieutenant, Lord Iuſtice, and chiefe Gouernour of Ireland t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the time being, And to the Treaſurer, Chancellour, Vice-Treaſurer, and Treaſurer, &amp; warres, and Barons, and other Our Officers of Our Exchequer of Ireland for the time b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing, And to all and ſinguler Our Cuſtomers, Collectours, Fermours, Comptrollers, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>other Officers of all and euery Our Cuſtomes, Subſidies, Impoſts, Butlarage, Priſag<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and other dueties, within all and euery Our Ports, Hauens, Creekes, Members, and place<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whatſoeuer, within Our Realme of Ireland for the time being, and which hereafter ſhall<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and to euery of them, Greeting. Whereas euer ſithence Our comming to the poſſeſſion <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Imperial Crowne of the Kingdomes of England and Ireland, Our ful reſolution an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſtant purpoſe and meaning was, and alwayes hath bene by all good meanes to ſet f<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ward and aduance Trade, Trafique and Merchandize, aſwell within Our Kingdome <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Scotland, as in Our Kingdomes of England and Ireland, and to augment and increa<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb facs="tcp:923:2"/>the Ships, Shippings, and Nauigation of the ſame Kingdomes of England, Scotla<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Ireland, for the wealth, ſtrength and proſperitie of the ſame Kingdomes; And for <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> purpoſe, and to giue the better encouragement vnto Our naturall Subiects of the ſaid Kin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dome of Scotland, to ſet forward and increaſe their Trade, Shipping and Commerce, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> haue heretofore giuen diuers and ſundry priuate directions to diuers Fermors of Our <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtomes, Subſidies, Impoſts, and other dueties, aſwell within Our Port of London, as i<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>uers other Ports and places in England; That Our ſaid Subiects of Scotland, nor th<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Ships, Pinaces, Lighters or other Veſſels, nor any of their goods, wares, or merchandi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> either brought into this Realme of England, or into the ſaid Realme of Ireland, or tra<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ported out of the ſame Realmes of England and Ireland, or either of them, ſhould be charg<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with the payment of any greater or other Cuſtomes, Subſidies, Tonnage, Butlarage, P<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſage, Impoſts, Impoſitions, or other payments, ſummes of money, or dueties whatſoeu<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for or in reſpect of any their Ships, or other Veſſels, vpon pretence and allegation that the<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſaid Ships were ſtrange and vnfree Bottomes, or for or in reſpect of any ſuch Exportatio<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or Importation of any wares, Merchandizes, or commodities into the ſaid Kingdomes England or Ireland, or either of them, and the Ilands vnder the Dominions of the ſa<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Then onely with ſuch and the ſame, and no greater nor other then Engliſhmen, for and in<g ref="char:EOLunhyphen"/>ſpect of their Ships, or for or in reſpect of any Importation or Exportation of goods, war<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> Merchandizes and commodities into the ſaid Kingdome of England, and the Dominion of the ſame; or Iriſhmen for or in reſpect of their Ships, or for or in reſpect of any Impor<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tion or exportation of goods, wares, Merchandizes and commodities into the ſaid Kingdo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Ireland, or the dominions of the ſame, or either of them are from time to time reſpectiue<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> charged withall. AND whereas notwithſtanding Our ſaid Princely reſolution, conſta<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> care and directions ſo giuen, as aforeſaid, for the aduancing of the good eſtate of Our ſaid kin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dome of Scotland, We are neuertheleſſe giuen to vnderſtand by the manifold complaints <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diuers Our good Subiects of that Kingdome, that they, their Ships, Barks and other ve<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſels, goods, wares, and Merchandizes are from time to time, aſwell in diuers Ports, Hauen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and places of lading and vnlading within Our Realme of England, as alſo in diuers Ports<g ref="char:punc">▪</g> Hauens and places of lading &amp; vnlading within Our ſaid Realme of Ireland, charged a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> burthened with diuers more and greater Cuſtomes, Subſidies, Impoſitions, taxations, p<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ments, and ſummes of money, then Our naturall Subiects of England, or Our Subiects <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ireland are ſeuerally and reſpectiuely charged withall, contrary to Our good meaning <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that behalfe: WE vnderſtanding that the Fermors and Officers of Our Cuſtomes, Su<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſidies, Impoſts, and other dueties within Our Port of London, and other of Our principa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ports, hauing taken notice of Our good pleaſure &amp; intention concerning the premiſſes, Ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from time to time duetifully &amp; obediently ſubmitted themſelues thereunto: AND the<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fore ſuppoſing that ignorance of Our Princely will, and not any wilfull neglect or contempt <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Our pleaſure, hath cauſed ſome other of Our Cuſtomers, Fermors and Officers of Our ſa<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Realmes of England and Ireland, to whom Our good purpoſe and intention was not <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> well knowen, to run vnwittingly into Our diſpleaſure; WE haue therefore thought good to giue generall and publique declaration and notification of Our pleaſure and will herein, to the intent that none of Our Subiects, either in England or Ireland, may pretend ignorance in that behalfe. AND therefore doe by theſe preſents ſignifie and declare aſwell vnto you the perſons aboue mentioned, as vnto all other Our Officers, miniſters and Subiects what<g ref="char:EOLunhyphen"/>ſoeuer within Our ſaid Realmes of England and Ireland, and either of them whom it doth
+<pb facs="tcp:923:3"/>and ſhall concerne, That Our Royall will, pleaſure and expreſſe commandement is, tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more greater or other Cuſtomes, Subſidies, Butlerage, Priſage, Tonnage, Impoſts, i<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſitions, dueties, payments, or ſummes of money, Fees for Entries, or other Fees, or rewa<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> whatſoeuer, ſhall at any time hereafter be taken, receiued, exacted, required, challenged <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>manded by any Our Officers or Subiects of England or Ireland, of any Scottiſhm<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Scottiſhmen, or any other perſon or perſons borne within Our Realme of Scotland, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in reſpect of their perſons, countrey or nation, or for, or in reſpect of any the Ships, Pin<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Barks, boats or veſſels, of any ſuch Scottiſhman or Scottiſhmen, as vnfree Bottoms, <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ming, arriuing or remayning within any Port or Ports, Hauen or hauens, or other cree<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> place, creeks or places within Our ſaid Realmes of England and Ireland, or either of th<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or the dominions of them, or either of them, for exerciſe or trade of Merchandize, or for <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reſpect of any Goods, wares, Merchandize or commodities whatſoeuer, by any ſuch S<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tiſhman or Scottiſhmen, imported or brought in, or hereafter to be imported and brought <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſaid Realmes of England and Ireland, or Exported and caried out, or hereafter to <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Exported and caried out of the ſame kingdomes, or either of them; Then onely ſuch and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſame, which are and lawfully ought to be taken, required and had of the naturall borne, S<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>iects of England, and the naturall borne Subiects of Ireland, ſeuerally and reſpectiue<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the like caſes, and for the like reſpects, Any former Law, ſtatute, cuſtome, ordinance, vſage <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>uiſion, or any other matter or thing whatſoeuer to the contrary notwithſtanding; W<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and ſtraitly charging and commanding all Our officers, miniſters and Subiects wha<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>euer, aſwell within Our kingdome of England, as within Our kingdom of Ireland, to <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it appertaineth, That they and euery of them take full notice &amp; vnderſtanding of Our Ro<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> pleaſure and commaundement before declared; And to ſee the ſame duely obſerued in <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> things according to the tenour and true meaning of the ſame, vpon paine of Our heauy <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dignation and diſpleaſure, and of ſuch puniſhment and penalties, as by Our Lawes <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtatutes can or may be inflicted or impoſed vpon wilfull contemners of Our commande<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and prerogatiue Royall: Neuertheleſſe, Our will and pleaſure is, And We doe by theſe, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſents ſignifie and declare Our Royall intent and meaning to bee, That all and euery <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Subiects of Our Realme of Scotland, ſhalbe ſubiect to ſuch forfeitures and penalties in <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of deteyning of Cuſtome or other dueties and colouring Strangers Goodes, or other<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> in like maner as Our Subiects of England and Ireland reſpectiuely are by the Lawe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Statutes of either Realme, or by Our prerogatiue Royall lyable vnto. IN witn<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> whereof We haue cauſed theſe Our Letters to be made Patents.</p>
+            <closer>
+               <dateline>
+                  <hi>Witneſſe Our ſelfe at Weſtminſter</hi> 
+                  <date>
+                     <hi>the twelfth day of April, in the thirteenth yeere of Our Reigne <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> England, France, and Ireland, and of Scotland the eight and fourtieth.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie. ANNO 1615.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
